@@ -44,9 +44,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/aws/aws-icons/main/icons/AWS-Lambda.svg" alt="AWS Lambda" width="40" height="40"/>
-	<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white" alt="REST API" height="40"/>
-	<img src="https://img.shields.io/badge/Microservicios-7952B3?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservicios" height="40"/>
 </div>
 
 <b>📫 Contacto</b>
