@@ -50,7 +50,7 @@
 
 <div align="center">
 	<a href="https://estebanvillamonsalve.com/" target="_blank">
-		<img src="https://img.shields.io/badge/Sitio%20Web-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio"/>
+		<img src="https://img.shields.io/badge/Portafolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio"/>
 	</a>
 	<a href="https://github.com/esteban-villa" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
