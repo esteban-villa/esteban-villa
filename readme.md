@@ -43,10 +43,22 @@
 
 <b>📫 Contacto</b>
 <ul>
-	<li>Email: <a href="mailto:villa310esteban@gmail.com">villa310esteban@gmail.com</a></li>
-	<li>GitHub: <a href="https://github.com/esteban-villa">esteban-villa</a></li>
-	<li>LinkedIn: <a href="https://www.linkedin.com/in/esteban-villa-monsalve-a6511a175">esteban-villa-monsalve</a></li>
-	<li>WhatsApp: <a href="https://wa.me/573219157229">Contactar</a></li>
+	 <li>Email: <a href="mailto:villa310esteban@gmail.com">villa310esteban@gmail.com</a></li>
 </ul>
+
+<div align="center">
+	<a href="https://github.com/esteban-villa" target="_blank">
+		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+	</a>
+	<a href="https://www.linkedin.com/in/esteban-villa-monsalve-a6511a175" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<a href="https://wa.me/573219157229" target="_blank">
+		<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+	</a>
+	<a href="mailto:villa310esteban@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+	</a>
+</div>
 
 <p align="center">Hecho con <img src="https://em-content.zobj.net/source/microsoft-teams/363/red-heart_2764-fe0f.png" width="20"/> por Esteban Villa</p>
