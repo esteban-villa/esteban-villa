@@ -39,11 +39,22 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/aws/aws-icons/main/icons/AWS-Lambda.svg" alt="AWS Lambda" width="40" height="40"/>
+	<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white" alt="REST API" height="40"/>
+	<img src="https://img.shields.io/badge/Microservicios-7952B3?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservicios" height="40"/>
 </div>
 
 <b>📫 Contacto</b>
 
 <div align="center">
+	<a href="https://estebanvillamonsalve.com/" target="_blank">
+		<img src="https://img.shields.io/badge/Sitio%20Web-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web"/>
+	</a>
 	<a href="https://github.com/esteban-villa" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 	</a>
