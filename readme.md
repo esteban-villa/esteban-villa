@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Esteban+Villa+Monsalve;Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Creatividad+%7C+Resiliencia+%7C+Innovaci%C3%B3n" alt="Banner Esteban Villa Monsalve"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Creatividad+%7C+Resiliencia+%7C+Innovaci%C3%B3n" alt="Banner Esteban Villa Monsalve"/>
 </div>
 <b>🚀 Trayectoria</b>
 <ul>
@@ -42,9 +42,6 @@
 </div>
 
 <b>📫 Contacto</b>
-<ul>
-	 <li>Email: <a href="mailto:villa310esteban@gmail.com">villa310esteban@gmail.com</a></li>
-</ul>
 
 <div align="center">
 	<a href="https://github.com/esteban-villa" target="_blank">
